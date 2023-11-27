@@ -1,2 +1,0 @@
-# primeiro-projeto-
-jogo basico 
